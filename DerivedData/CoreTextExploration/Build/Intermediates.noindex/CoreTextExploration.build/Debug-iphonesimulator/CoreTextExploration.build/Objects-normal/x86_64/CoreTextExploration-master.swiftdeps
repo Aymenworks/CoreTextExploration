@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "a907df6bdcdec71194da9e7c9d6356cb"
-build_time: [1563495837, 525147000]
-inputs:
-  "/Users/rebouhaymen/Projects/CoreTextExploration/CoreTextExploration/AnimatedText.swift": [1563495837, 351456715]
-  "/Users/rebouhaymen/Projects/CoreTextExploration/CoreTextExploration/ShapeView.swift": [1563376509, 272570070]
-  "/Users/rebouhaymen/Projects/CoreTextExploration/CoreTextExploration/ShapeViewController.swift": [1563197524, 121491422]
-  "/Users/rebouhaymen/Projects/CoreTextExploration/CoreTextExploration/AppDelegate.swift": [1563197422, 356505140]
