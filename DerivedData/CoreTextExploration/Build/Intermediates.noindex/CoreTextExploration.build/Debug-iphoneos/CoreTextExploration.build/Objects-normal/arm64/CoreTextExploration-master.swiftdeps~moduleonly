@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "de673b3f46cc4c55813874393c4c46b3"
+build_time: [1563208629, 702200000]
+inputs:
+  "/Users/rebouhaymen/Projects/CoreTextExploration/CoreTextExploration/ShapeView.swift": [1563208629, 525450395]
+  "/Users/rebouhaymen/Projects/CoreTextExploration/CoreTextExploration/ShapeViewController.swift": [1563197524, 121491422]
+  "/Users/rebouhaymen/Projects/CoreTextExploration/CoreTextExploration/AppDelegate.swift": [1563197422, 356505140]
